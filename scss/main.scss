@@ -1,0 +1,19 @@
+@import './resets';
+@import './functions';
+@import './mixins';
+@import './variables';
+
+main {
+    margin: 40px;
+}
+.temp {
+    display: flex;
+    height: 80vh;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 4rem;
+}
+footer {
+    text-align: center;
+}
